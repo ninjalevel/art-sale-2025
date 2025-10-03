@@ -8,8 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const lightbox = document.getElementById('lightbox');
     const lightboxImg = lightbox.querySelector('.lightbox-img');
     const lightboxTitle = lightbox.querySelector('.lightbox-title');
-    const lightboxMeta = lightbox.querySelector('.lightbox-meta');
-    const lightboxPrice = lightbox.querySelector('.lightbox-price');
     const closeBtn = lightbox.querySelector('.lightbox-close');
     const prevBtn = lightbox.querySelector('.lightbox-prev');
     const nextBtn = lightbox.querySelector('.lightbox-next');
@@ -116,9 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         lightboxImg.src = `images/${painting.file}`;
         lightboxTitle.textContent = painting.title;
-        lightboxMeta.textContent = painting.meta;
-        lightboxPrice.textContent = painting.price;
-        
+
         lightbox.classList.add('show');
         document.body.style.overflow = 'hidden'; // Prevent scrolling
     }
