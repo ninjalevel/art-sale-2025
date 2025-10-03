@@ -1,0 +1,540 @@
+{
+    "Collection1": {
+        "description": "This collection was inspired by the silent, functional elegance of a lambda expression and the swift, deadly precision of a ninja. Each piece explores the concept of anonymous power, appearing only when needed and disappearing without a trace.",
+        "paintings": [
+            {
+                "file": "collection1/painting-01.jpg",
+                "title": "Painting 01",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-02.jpg",
+                "title": "Painting 02",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-03.jpg",
+                "title": "Painting 03",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-04.jpg",
+                "title": "Painting 04",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-05.jpg",
+                "title": "Painting 05",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-06.jpg",
+                "title": "Painting 06",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-07.jpg",
+                "title": "Painting 07",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-08.jpg",
+                "title": "Painting 08",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-09.jpg",
+                "title": "Painting 09",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-10.jpg",
+                "title": "Painting 10",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-11.jpg",
+                "title": "Painting 11",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-12.jpg",
+                "title": "Painting 12",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-13.jpg",
+                "title": "Painting 13",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-14.jpg",
+                "title": "Painting 14",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-15.jpg",
+                "title": "Painting 15",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-16.jpg",
+                "title": "Painting 16",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-17.jpg",
+                "title": "Painting 17",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-18.jpg",
+                "title": "Painting 18",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-19.jpg",
+                "title": "Painting 19",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-20.jpg",
+                "title": "Painting 20",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-21.jpg",
+                "title": "Painting 21",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-22.jpg",
+                "title": "Painting 22",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-23.jpg",
+                "title": "Painting 23",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-24.jpg",
+                "title": "Painting 24",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-25.jpg",
+                "title": "Painting 25",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-26.jpg",
+                "title": "Painting 26",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-27.jpg",
+                "title": "Painting 27",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-28.jpg",
+                "title": "Painting 28",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-29.jpg",
+                "title": "Painting 29",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-30.jpg",
+                "title": "Painting 30",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection1/painting-31.jpg",
+                "title": "Painting 31",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            }
+        ]
+    },
+    "Collection2": {
+        "description": "Here, we delve deeper into the eternal conflict: the stateless, single-minded purpose of a lambda versus the stateful, shadowy existence of a ninja clan. These works ask the question: can a function truly be pure if it wields a katana?",
+        "paintings": [
+            {
+                "file": "collection2/painting-32.jpg",
+                "title": "Painting 32",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-33.jpg",
+                "title": "Painting 33",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-34.jpg",
+                "title": "Painting 34",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-35.jpg",
+                "title": "Painting 35",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-36.jpg",
+                "title": "Painting 36",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-37.jpg",
+                "title": "Painting 37",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-38.jpg",
+                "title": "Painting 38",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-39.jpg",
+                "title": "Painting 39",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-40.jpg",
+                "title": "Painting 40",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-41.jpg",
+                "title": "Painting 41",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-42.jpg",
+                "title": "Painting 42",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-43.jpg",
+                "title": "Painting 43",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-44.jpg",
+                "title": "Painting 44",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-45.jpg",
+                "title": "Painting 45",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-46.jpg",
+                "title": "Painting 46",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-47.jpg",
+                "title": "Painting 47",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-48.jpg",
+                "title": "Painting 48",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-49.jpg",
+                "title": "Painting 49",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-50.jpg",
+                "title": "Painting 50",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-51.jpg",
+                "title": "Painting 51",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-52.jpg",
+                "title": "Painting 52",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-53.jpg",
+                "title": "Painting 53",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-54.jpg",
+                "title": "Painting 54",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-57.jpg",
+                "title": "Painting 57",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-58.jpg",
+                "title": "Painting 58",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-61.jpg",
+                "title": "Painting 61",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-63.jpg",
+                "title": "Painting 63",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-64.jpg",
+                "title": "Painting 64",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-65.jpg",
+                "title": "Painting 65",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-67.jpg",
+                "title": "Painting 67",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-68.jpg",
+                "title": "Painting 68",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-69.jpg",
+                "title": "Painting 69",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-70.jpg",
+                "title": "Painting 70",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-71.jpg",
+                "title": "Painting 71",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-72.jpg",
+                "title": "Painting 72",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-73.jpg",
+                "title": "Painting 73",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-74.jpg",
+                "title": "Painting 74",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-75.jpg",
+                "title": "Painting 75",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-76.jpg",
+                "title": "Painting 76",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-77.jpg",
+                "title": "Painting 77",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-78.jpg",
+                "title": "Painting 78",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-79.jpg",
+                "title": "Painting 79",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-80.jpg",
+                "title": "Painting 80",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-81.jpg",
+                "title": "Painting 81",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-82.jpg",
+                "title": "Painting 82",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-83.jpg",
+                "title": "Painting 83",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-84.jpg",
+                "title": "Painting 84",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-85.jpg",
+                "title": "Painting 85",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-86.jpg",
+                "title": "Painting 86",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-87.jpg",
+                "title": "Painting 87",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-88.jpg",
+                "title": "Painting 88",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-89.jpg",
+                "title": "Painting 89",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-91.jpg",
+                "title": "Painting 91",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-92.jpg",
+                "title": "Painting 92",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-93.jpg",
+                "title": "Painting 93",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-94.jpg",
+                "title": "Painting 94",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "collection2/painting-95.jpg",
+                "title": "Painting 95",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            }
+        ]
+    }
+}

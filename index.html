@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studio Sale - October 2025</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="main-header">
+        <h1 class="artist-name"><span id="artist_name"></span></h1>
+        <a href="" class="contact-email"><span id="contact_email"></span></a>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2 class="intro-title"><span id="intro_title"></span></h2>
+            <p class="intro-subtitle"><span id="intro_subtitle"></span></p>
+        </section>
+
+        <section id="gallery"></section>
+    </main>
+
+    <!-- Lightbox Modal -->
+    <div id="lightbox" class="lightbox-overlay">
+        <div class="lightbox-content">
+            <span class="lightbox-close">&times;</span>
+            <img src="" alt="Full-size artwork" class="lightbox-img">
+            <div class="lightbox-details">
+                <h3 class="lightbox-title"></h3>
+                <p class="lightbox-meta"></p>
+                <p class="lightbox-price"></p>
+            </div>
+            <a class="lightbox-prev">&#10094;</a>
+            <a class="lightbox-next">&#10095;</a>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+
+</body>
+</html>
