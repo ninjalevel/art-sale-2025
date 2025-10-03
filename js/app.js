@@ -30,6 +30,18 @@ document.addEventListener('DOMContentLoaded', () => {
             contactEmail.parentElement.href = `mailto:${siteData.contact_email}`;
             document.getElementById('intro_title').textContent = siteData.intro_title;
             document.getElementById('intro_subtitle').textContent = siteData.intro_subtitle;
+
+            // Event details
+            document.getElementById('location').textContent = siteData.location;
+            document.getElementById('date').textContent = siteData.date;
+            document.getElementById('time').textContent = siteData.time;
+
+            // Convert email in note to mailto link
+            const noteElement = document.getElementById('note');
+            const emailRegex = /([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/gi;
+            const noteWithLink = siteData.note.replace(emailRegex, '<a href="mailto:$1">$1</a>');
+            noteElement.innerHTML = noteWithLink;
+
             document.title = `${siteData.artist_name} - ${siteData.intro_subtitle}`
         } catch (error) {
             console.error("Could not load site data:", error);
