@@ -13,9 +13,37 @@ OUTPUT_FILE = Path('gallery-data.json')
 SITE_CONFIG_FILE = Path('site.yaml')
 SITE_OUTPUT_FILE = Path('site-data.json')
 
+def parse_collection_prefix(folder_name):
+    """
+    Parses numeric prefix from folder name.
+    Returns (prefix_number, clean_name) or (None, folder_name)
+    Example: "2_back_to_the_garden" -> (2, "back_to_the_garden")
+    """
+    import re
+    match = re.match(r'^(\d+)_(.+)$', folder_name)
+    if match:
+        prefix_num = int(match.group(1))
+        clean_name = match.group(2)
+        return (prefix_num, clean_name)
+    return (None, folder_name)
+
+def collection_sort_key(folder_path):
+    """
+    Returns sort key: (numeric_prefix or infinity, folder_name)
+    Numbered collections sort first, non-numbered last.
+    Within same prefix level, sorts alphabetically.
+    """
+    folder_name = folder_path.name
+    prefix, clean_name = parse_collection_prefix(folder_name)
+    # Use infinity for non-numbered collections so they sort last
+    sort_prefix = prefix if prefix is not None else float('inf')
+    return (sort_prefix, clean_name)
+
 def format_collection_name(name):
     """Formats a folder name like 'collection1' into a title like 'Collection 1'."""
-    return name.replace('_', ' ').replace('-', ' ').title()
+    # Strip numeric prefix if present
+    _, clean_name = parse_collection_prefix(name)
+    return clean_name.replace('_', ' ').replace('-', ' ').title()
 
 def get_existing_data():
     """Loads the existing gallery data if it exists."""
@@ -50,7 +78,7 @@ def run_build():
     # Find all collection directories
     collection_dirs = [d for d in IMAGES_DIR.iterdir() if d.is_dir()]
 
-    for collection_dir in sorted(collection_dirs):
+    for collection_dir in sorted(collection_dirs, key=collection_sort_key):
         collection_name_str = collection_dir.name
         collection_title = format_collection_name(collection_name_str)
         print(f"Processing collection: {collection_title}...")
