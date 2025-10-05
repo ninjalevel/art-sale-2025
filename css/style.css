@@ -146,6 +146,16 @@ body {
         gap: 1rem;
     }
 
+    .event-details::before {
+        left: 1.5rem;
+        right: 1.5rem;
+    }
+
+    .event-details::after {
+        left: 1.5rem;
+        right: 1.5rem;
+    }
+
     .event-location {
         font-size: 1.1rem;
     }
@@ -154,10 +164,6 @@ body {
         font-size: 1rem;
         flex-direction: column;
         gap: 0.3rem;
-    }
-
-    .event-datetime span:first-child::after {
-        display: none;
     }
 }
 
@@ -333,7 +339,7 @@ body {
     }
 
     .intro {
-        padding: 8rem 1rem 3rem;
+        padding: 8rem 1.5rem 1.5rem;
     }
 
     .gallery-grid {
