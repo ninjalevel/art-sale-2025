@@ -1,537 +1,555 @@
 {
-    "That Collection": {
-        "description": "Here, we delve deeper into the eternal conflict: the stateless, single-minded purpose of a lambda versus the stateful, shadowy existence of a ninja clan. These works ask the question: can a function truly be pure if it wields a katana?",
+    "Back To The Garden": {
+        "description": "I call this series \"Back to the Garden\" because it is, in many ways, about returning to the source.\n\nIn 2022, following some major life changes, I spent some time in Paris. Part of this trip included a pilgrimage of sorts, to Monet's garden in Giverny. As Joni Mitchell says, \"We got to get ourselves back to the garden\". The garden is place of connection; of reflection; of meditation and inspiration.\n\nI have tried to create an evocation of this place and the experience, rather than a depiction. The landscape is both itself and a representation of my own state of mind.",
         "paintings": [
             {
-                "file": "that_collection/painting-32.jpg",
-                "title": "Painting 32",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-33.jpg",
-                "title": "Painting 33",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-34.jpg",
-                "title": "Painting 34",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-35.jpg",
-                "title": "Painting 35",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-36.jpg",
-                "title": "Painting 36",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-37.jpg",
-                "title": "Painting 37",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-38.jpg",
-                "title": "Painting 38",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-39.jpg",
-                "title": "Painting 39",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-40.jpg",
-                "title": "Painting 40",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-41.jpg",
-                "title": "Painting 41",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-42.jpg",
-                "title": "Painting 42",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-43.jpg",
-                "title": "Painting 43",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-44.jpg",
-                "title": "Painting 44",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-45.jpg",
-                "title": "Painting 45",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-46.jpg",
-                "title": "Painting 46",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-47.jpg",
-                "title": "Painting 47",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-48.jpg",
-                "title": "Painting 48",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-49.jpg",
-                "title": "Painting 49",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-50.jpg",
-                "title": "Painting 50",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-51.jpg",
-                "title": "Painting 51",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-52.jpg",
-                "title": "Painting 52",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-53.jpg",
-                "title": "Painting 53",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-54.jpg",
-                "title": "Painting 54",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-57.jpg",
-                "title": "Painting 57",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-58.jpg",
-                "title": "Painting 58",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-61.jpg",
-                "title": "Painting 61",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-63.jpg",
-                "title": "Painting 63",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-64.jpg",
-                "title": "Painting 64",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-65.jpg",
-                "title": "Painting 65",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-67.jpg",
-                "title": "Painting 67",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-68.jpg",
-                "title": "Painting 68",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-69.jpg",
-                "title": "Painting 69",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-70.jpg",
-                "title": "Painting 70",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-71.jpg",
-                "title": "Painting 71",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-72.jpg",
-                "title": "Painting 72",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-73.jpg",
-                "title": "Painting 73",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-74.jpg",
-                "title": "Painting 74",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-75.jpg",
-                "title": "Painting 75",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-76.jpg",
-                "title": "Painting 76",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-77.jpg",
-                "title": "Painting 77",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-78.jpg",
-                "title": "Painting 78",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-79.jpg",
-                "title": "Painting 79",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-80.jpg",
-                "title": "Painting 80",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-81.jpg",
-                "title": "Painting 81",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-82.jpg",
-                "title": "Painting 82",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-83.jpg",
-                "title": "Painting 83",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-84.jpg",
-                "title": "Painting 84",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-85.jpg",
-                "title": "Painting 85",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-86.jpg",
-                "title": "Painting 86",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-87.jpg",
-                "title": "Painting 87",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-88.jpg",
-                "title": "Painting 88",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-89.jpg",
-                "title": "Painting 89",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-91.jpg",
-                "title": "Painting 91",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-92.jpg",
-                "title": "Painting 92",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "that_collection/painting-93.jpg",
+                "file": "back_to_the_garden/painting-93.jpg",
                 "title": "Painting 93",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "that_collection/painting-94.jpg",
+                "file": "back_to_the_garden/painting-94.jpg",
                 "title": "Painting 94",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "that_collection/painting-95.jpg",
+                "file": "back_to_the_garden/painting-95.jpg",
                 "title": "Painting 95",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             }
         ]
     },
-    "This Collection": {
-        "description": "This collection was inspired by the silent, functional elegance of a lambda expression and the swift, deadly precision of a ninja. Each piece explores the concept of anonymous power, appearing only when needed and disappearing without a trace.",
+    "Fire And Water": {
+        "description": "",
         "paintings": [
             {
-                "file": "this_collection/painting-01.jpg",
+                "file": "fire_and_water/painting-71.jpg",
+                "title": "Painting 71",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "fire_and_water/painting-72.jpg",
+                "title": "Painting 72",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "fire_and_water/painting-89.jpg",
+                "title": "Painting 89",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            }
+        ]
+    },
+    "Miscellaneous Works": {
+        "description": "",
+        "paintings": [
+            {
+                "file": "miscellaneous_works/painting-73.jpg",
+                "title": "Painting 73",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-74.jpg",
+                "title": "Painting 74",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-75.jpg",
+                "title": "Painting 75",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-76.jpg",
+                "title": "Painting 76",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-77.jpg",
+                "title": "Painting 77",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-78.jpg",
+                "title": "Painting 78",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-79.jpg",
+                "title": "Painting 79",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-80.jpg",
+                "title": "Painting 80",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-81.jpg",
+                "title": "Painting 81",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-82.jpg",
+                "title": "Painting 82",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-83.jpg",
+                "title": "Painting 83",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-84.jpg",
+                "title": "Painting 84",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "miscellaneous_works/painting-88.jpg",
+                "title": "Painting 88",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            }
+        ]
+    },
+    "Passage": {
+        "description": "This work was created in my studio in Sault Ste. Marie which was in an old bushplane hangar, on the edge of St. Mary's River. Below the studio, airplanes in various state of repair share space with gigantic ship engines and boilers. Large cargo ships travel that river that separates Lake Superior and Lake Huron.\n\nThe forms of this environment – the ships, bridges, and the ever-present element of water have influenced the shape of the work. The constant reminders of voyages by air or water have provided a metaphor for other kinds of journeys.\n\nThese paintings serve as elegies for departed loved ones, and imagines, with hope, a passage between this world and the next.",
+        "paintings": [
+            {
+                "file": "passage/painting-34.jpg",
+                "title": "Painting 34",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-35.jpg",
+                "title": "Painting 35",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-36.jpg",
+                "title": "Painting 36",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-37.jpg",
+                "title": "Painting 37",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-38.jpg",
+                "title": "Painting 38",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-39.jpg",
+                "title": "Painting 39",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-40.jpg",
+                "title": "Painting 40",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-41.jpg",
+                "title": "Painting 41",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-42.jpg",
+                "title": "Painting 42",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-44.jpg",
+                "title": "Painting 44",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-57.jpg",
+                "title": "Painting 57",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-58.jpg",
+                "title": "Painting 58",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-61.jpg",
+                "title": "Painting 61",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-63.jpg",
+                "title": "Painting 63",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-64.jpg",
+                "title": "Painting 64",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-65.jpg",
+                "title": "Painting 65",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-67.jpg",
+                "title": "Painting 67",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-68.jpg",
+                "title": "Painting 68",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-69.jpg",
+                "title": "Painting 69",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "passage/painting-70.jpg",
+                "title": "Painting 70",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            }
+        ]
+    },
+    "The Far Shore": {
+        "description": "This work was created in my studio in Sault Ste. Marie which was in an old bushplane hangar, on the edge of St. Mary's River. Below the studio, airplanes in various state of repair share space with gigantic ship engines and boilers. Large cargo ships travel that river that separates Lake Superior and Lake Huron.\n\nThe forms of this environment – the ships, bridges, and the ever-present element of water have influenced the shape of the work. The constant reminders of voyages by air or water have provided a metaphor for other kinds of journeys.\n\nThese paintings serve as elegies for departed loved ones, and imagines, with hope, a passage between this world and the next.",
+        "paintings": [
+            {
+                "file": "the_far_shore/painting-01.jpg",
                 "title": "Painting 01",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-02.jpg",
+                "file": "the_far_shore/painting-02.jpg",
                 "title": "Painting 02",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-03.jpg",
+                "file": "the_far_shore/painting-03.jpg",
                 "title": "Painting 03",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-04.jpg",
+                "file": "the_far_shore/painting-04.jpg",
                 "title": "Painting 04",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-05.jpg",
+                "file": "the_far_shore/painting-05.jpg",
                 "title": "Painting 05",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-06.jpg",
+                "file": "the_far_shore/painting-06.jpg",
                 "title": "Painting 06",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-07.jpg",
+                "file": "the_far_shore/painting-07.jpg",
                 "title": "Painting 07",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-08.jpg",
+                "file": "the_far_shore/painting-08.jpg",
                 "title": "Painting 08",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-09.jpg",
+                "file": "the_far_shore/painting-09.jpg",
                 "title": "Painting 09",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-10.jpg",
+                "file": "the_far_shore/painting-10.jpg",
                 "title": "Painting 10",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-11.jpg",
+                "file": "the_far_shore/painting-11.jpg",
                 "title": "Painting 11",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-12.jpg",
+                "file": "the_far_shore/painting-12.jpg",
                 "title": "Painting 12",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-13.jpg",
+                "file": "the_far_shore/painting-13.jpg",
                 "title": "Painting 13",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-14.jpg",
+                "file": "the_far_shore/painting-14.jpg",
                 "title": "Painting 14",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-15.jpg",
+                "file": "the_far_shore/painting-15.jpg",
                 "title": "Painting 15",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-16.jpg",
+                "file": "the_far_shore/painting-16.jpg",
                 "title": "Painting 16",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-17.jpg",
+                "file": "the_far_shore/painting-17.jpg",
                 "title": "Painting 17",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-18.jpg",
+                "file": "the_far_shore/painting-18.jpg",
                 "title": "Painting 18",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-19.jpg",
+                "file": "the_far_shore/painting-19.jpg",
                 "title": "Painting 19",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-20.jpg",
+                "file": "the_far_shore/painting-20.jpg",
                 "title": "Painting 20",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-21.jpg",
+                "file": "the_far_shore/painting-21.jpg",
                 "title": "Painting 21",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-22.jpg",
+                "file": "the_far_shore/painting-22.jpg",
                 "title": "Painting 22",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-23.jpg",
+                "file": "the_far_shore/painting-23.jpg",
                 "title": "Painting 23",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-24.jpg",
+                "file": "the_far_shore/painting-24.jpg",
                 "title": "Painting 24",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-25.jpg",
+                "file": "the_far_shore/painting-25.jpg",
                 "title": "Painting 25",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-26.jpg",
+                "file": "the_far_shore/painting-26.jpg",
                 "title": "Painting 26",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-27.jpg",
+                "file": "the_far_shore/painting-27.jpg",
                 "title": "Painting 27",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-28.jpg",
+                "file": "the_far_shore/painting-28.jpg",
                 "title": "Painting 28",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-29.jpg",
+                "file": "the_far_shore/painting-29.jpg",
                 "title": "Painting 29",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-30.jpg",
+                "file": "the_far_shore/painting-30.jpg",
                 "title": "Painting 30",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "this_collection/painting-31.jpg",
+                "file": "the_far_shore/painting-31.jpg",
                 "title": "Painting 31",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            }
+        ]
+    },
+    "The Same Moon": {
+        "description": "The Same Moon\n\nThis work considers the universal experience of longing for the familiar landscape of home.\n\nEach of the following poems expresses the longing and melancholy of exile, and yet each acknowledges that we are all tethered to the same moon. Despite our feelings of dislocation and foreignness, the moon reminds us that we share the same planet; the water crashing on our shore is falling as rain across the ocean.\n\nAs an artist, I'm also interested in the other links – the fact that Hokusai created his print Gazing at the Moon From a Terrace in homage to Nakamoro almost a millennium after the poet lived, and that Hokusai, Hiroshige and other Japanese print masters continue to influence and inspire artists 150 years later. Time and space are rendered irrelevant in relation to the more powerful recognition of shared sensibility and experience.\n\nIn this series of drawings, I've been travelling to various parts of the world, and imagining these artists and poets as my travel companions and collaborators.\n\n\nGazing at the Moon From a Terrace\nWhen I look over Heaven's plain I wonder:\nIs that the same moon that rose\nover Mount Mikasa in Kasuga?\n- Abe no Nakamaro\n\n\nNight Thought\nBefore my bed, bright moonlight\nIs it frost covering the ground?\nHead lifted, I look at the moon\nEyes lowered, I think of my native spoil\n- Li Po\n\n\nA Moonlit Night (excerpt)\nTonight\nIn this same moonlight\nMy wife is alone at her window\n- Tu Fu\n\n\nThinking of my Brothers on a Moonlit Night (excerpt)\n…\nThis same moon shines\nWhere I grew up\nMy brothers are all scattered\nNo way to know if they're alive\nAnd the war goes on and on\n…\n- Tu Fu",
+        "paintings": [
+            {
+                "file": "the_same_moon/painting-91.jpg",
+                "title": "Painting 91",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "the_same_moon/painting-92.jpg",
+                "title": "Painting 92",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            }
+        ]
+    },
+    "The Way Home": {
+        "description": "\"The Way Home\" is a series of work completed during the pandemic. It addresses my own ambiguous concept of home during these challenging times.\n\nMoving back to Alberta less than a year prior to the pandemic, my joy at returning to the comfort of this most familiar landscape was quickly tempered by the understanding that I couldn't leave. The periods of lockdown left most of us feeling a bit trapped by the very thing that was keeping us safe.\n\nWhile we struggled with feelings of isolation, we were also aware that this experience was shared by virtually every human being on the planet. This paradoxical experience and change in perspective is reflected in the shifts of scale within the series.\n\nI have attempted to encompass the angst and the sorrow as well as the more hopeful view that this profoundly shared human experience may make us all more aware of our shared fate on this lovely planet.",
+        "paintings": [
+            {
+                "file": "the_way_home/painting-32.jpg",
+                "title": "Painting 32",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "the_way_home/painting-43.jpg",
+                "title": "Painting 43",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "the_way_home/painting-45.jpg",
+                "title": "Painting 45",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "the_way_home/painting-46.jpg",
+                "title": "Painting 46",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "the_way_home/painting-47.jpg",
+                "title": "Painting 47",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "the_way_home/painting-48.jpg",
+                "title": "Painting 48",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "the_way_home/painting-49.jpg",
+                "title": "Painting 49",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "the_way_home/painting-50.jpg",
+                "title": "Painting 50",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            }
+        ]
+    },
+    "Tide Pools": {
+        "description": "",
+        "paintings": [
+            {
+                "file": "tide_pools/painting-52.jpg",
+                "title": "Painting 52",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "tide_pools/painting-53.jpg",
+                "title": "Painting 53",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "tide_pools/painting-54.jpg",
+                "title": "Painting 54",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "tide_pools/painting-85.jpg",
+                "title": "Painting 85",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "tide_pools/painting-86.jpg",
+                "title": "Painting 86",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "tide_pools/painting-87.jpg",
+                "title": "Painting 87",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             }

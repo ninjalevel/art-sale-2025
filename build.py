@@ -20,7 +20,7 @@ def format_collection_name(name):
 def get_existing_data():
     """Loads the existing gallery data if it exists."""
     if OUTPUT_FILE.exists():
-        with open(OUTPUT_FILE, 'r') as f:
+        with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
             return json.load(f)
     return {}
 
@@ -31,9 +31,9 @@ def run_build():
     # --- Process site config ---
     if SITE_CONFIG_FILE.exists():
         print(f"Processing site config from {SITE_CONFIG_FILE}...")
-        with open(SITE_CONFIG_FILE, 'r') as f:
+        with open(SITE_CONFIG_FILE, 'r', encoding='utf-8') as f:
             site_data = yaml.safe_load(f)
-        with open(SITE_OUTPUT_FILE, 'w') as f:
+        with open(SITE_OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(site_data, f, indent=4)
         print(f"Site data written to '{SITE_OUTPUT_FILE}'.")
     else:
@@ -59,7 +59,7 @@ def run_build():
         info_file = collection_dir / '_collection.info'
         description = ""
         if info_file.exists():
-            with open(info_file, 'r') as f:
+            with open(info_file, 'r', encoding='utf-8') as f:
                 description = f.read().strip()
         
         # Prepare collection data structure
@@ -97,8 +97,8 @@ def run_build():
                 })
 
     # Write the new data file
-    with open(OUTPUT_FILE, 'w') as f:
-        json.dump(gallery_data, f, indent=4)
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(gallery_data, f, indent=4, ensure_ascii=False)
     
     print(f"\nBuild complete. Gallery data written to '{OUTPUT_FILE}'.")
     print("You can now edit this file to update painting details.")
