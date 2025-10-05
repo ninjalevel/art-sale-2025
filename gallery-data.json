@@ -22,29 +22,6 @@
             }
         ]
     },
-    "Fire And Water": {
-        "description": "",
-        "paintings": [
-            {
-                "file": "1_fire_and_water/painting-71.jpg",
-                "title": "Painting 71",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "1_fire_and_water/painting-72.jpg",
-                "title": "Painting 72",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            },
-            {
-                "file": "1_fire_and_water/painting-89.jpg",
-                "title": "Painting 89",
-                "meta": "Medium, Size",
-                "price": "$TBD"
-            }
-        ]
-    },
     "Passage": {
         "description": "This work was created in my studio in Sault Ste. Marie which was in an old bushplane hangar, on the edge of St. Mary's River. Below the studio, airplanes in various state of repair share space with gigantic ship engines and boilers. Large cargo ships travel that river that separates Lake Superior and Lake Huron.\n\nThe forms of this environment – the ships, bridges, and the ever-present element of water have influenced the shape of the work. The constant reminders of voyages by air or water have provided a metaphor for other kinds of journeys.\n\nThese paintings serve as elegies for departed loved ones, and imagines, with hope, a passage between this world and the next.",
         "paintings": [
@@ -171,7 +148,7 @@
         ]
     },
     "The Far Shore": {
-        "description": "This work was created in my studio in Sault Ste. Marie which was in an old bushplane hangar, on the edge of St. Mary's River. Below the studio, airplanes in various state of repair share space with gigantic ship engines and boilers. Large cargo ships travel that river that separates Lake Superior and Lake Huron.\n\nThe forms of this environment – the ships, bridges, and the ever-present element of water have influenced the shape of the work. The constant reminders of voyages by air or water have provided a metaphor for other kinds of journeys.\n\nThese paintings serve as elegies for departed loved ones, and imagines, with hope, a passage between this world and the next.",
+        "description": "Smaller works from the Passage series.",
         "paintings": [
             {
                 "file": "1_the_far_shore/painting-01.jpg",
@@ -467,6 +444,29 @@
             {
                 "file": "1_tide_pools/painting-87.jpg",
                 "title": "Painting 87",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            }
+        ]
+    },
+    "Fire And Water": {
+        "description": "",
+        "paintings": [
+            {
+                "file": "8_fire_and_water/painting-71.jpg",
+                "title": "Painting 71",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "8_fire_and_water/painting-72.jpg",
+                "title": "Painting 72",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "8_fire_and_water/painting-89.jpg",
+                "title": "Painting 89",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             }
