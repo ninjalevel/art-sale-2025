@@ -13,7 +13,7 @@ def resize_images():
     Resizes all JPG images from an input directory to a max width of 1200px,
     maintaining aspect ratio, and saves them to an output directory.
     """
-    input_dir = 'images_raw'
+    input_dir = 'images_raw/Studio sale 2/Studio sale 2'
     output_dir = 'images'
     max_width = 1200
 
@@ -24,7 +24,7 @@ def resize_images():
 
     # Find all JPG files in the input directory
     image_paths = glob.glob(os.path.join(input_dir, '*.jpg'))
-    
+
     if not image_paths:
         print(f"No JPG images found in '{input_dir}'.")
         return

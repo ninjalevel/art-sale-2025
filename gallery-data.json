@@ -453,20 +453,73 @@
         "description": "",
         "paintings": [
             {
-                "file": "8_fire_and_water/painting-71.jpg",
+                "file": "7_fire_and_water/painting-71.jpg",
                 "title": "Painting 71",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "8_fire_and_water/painting-72.jpg",
+                "file": "7_fire_and_water/painting-72.jpg",
                 "title": "Painting 72",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             },
             {
-                "file": "8_fire_and_water/painting-89.jpg",
+                "file": "7_fire_and_water/painting-89.jpg",
                 "title": "Painting 89",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            }
+        ]
+    },
+    "Hesperides": {
+        "description": "Named for the Greek water goddesses and nymphs, these drawings celebrate\nthe spirit and mischief of water and the playful mirror of our world that it\npresents us.",
+        "paintings": [
+            {
+                "file": "8_hesperides/painting-100.jpg",
+                "title": "Painting 100",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "8_hesperides/painting-101.jpg",
+                "title": "Painting 101",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "8_hesperides/painting-102.jpg",
+                "title": "Painting 102",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "8_hesperides/painting-103.jpg",
+                "title": "Painting 103",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "8_hesperides/painting-96.jpg",
+                "title": "Painting 96",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "8_hesperides/painting-97.jpg",
+                "title": "Painting 97",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "8_hesperides/painting-98.jpg",
+                "title": "Painting 98",
+                "meta": "Medium, Size",
+                "price": "$TBD"
+            },
+            {
+                "file": "8_hesperides/painting-99.jpg",
+                "title": "Painting 99",
                 "meta": "Medium, Size",
                 "price": "$TBD"
             }
